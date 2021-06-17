@@ -6,6 +6,7 @@
     "name": "Artem Mytrofanov",
     "email": "mitrofin@gmail.com"
   },
+  "homepage": "https://mitrofin.github.io/goit-react-hw03-phonebook",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
